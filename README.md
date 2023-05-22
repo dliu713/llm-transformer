@@ -1,6 +1,6 @@
 # transformer
 
-# links
+# Links
 Attention Is All You Need: https://arxiv.org/pdf/1706.03762.pdf
 nanoGPT repo: https://github.com/karpathy/nanoGPT
 Andrej Karpathy's Transformer Video: https://www.youtube.com/watch?v=kCc8FmEb1nY
